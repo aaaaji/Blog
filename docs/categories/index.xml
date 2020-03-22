@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Jay&#39;s Area</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Jay&#39;s Area</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Jay</title>
+      <link>/about/</link>
+      <pubDate>Sun, 22 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>快要去當兵的宅宅一個 之前就想寫個部落格紀錄東西很久了 可能會有一些運動、程式&amp;hellip; 還有不知道幹麻的廢文在這裡誕生</description>
+    </item>
+    
+  </channel>
+</rss>
