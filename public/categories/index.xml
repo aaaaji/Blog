@@ -5,9 +5,19 @@
     <link>https://aaaaji.github.io/Blog/categories/</link>
     <description>Recent content in Categories on Jay&#39;s Area</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 03 Apr 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://aaaaji.github.io/Blog/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>用Hugo、Github、Github Pages建立靜態網站</title>
+      <link>https://aaaaji.github.io/Blog/content/posts/github_pages_with_hugo/</link>
+      <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaaaji.github.io/Blog/content/posts/github_pages_with_hugo/</guid>
+      <description>雖然在 Hugo 的官方文件有寫用 Github 作為 Host 應該怎麼把 Hugo 佈署上去，但實際執行時還是遇到了一點問題，為了避免忘記來做一下紀錄～ 三種 Github pages 頁面型態 Github Pages 提供了3</description>
+    </item>
     
     <item>
       <title>About Jay</title>
