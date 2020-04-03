@@ -3,6 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://aaaaji.github.io/Blog/categories/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/content/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/tags/github/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/tags/hugo/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/tags/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/categories/%E6%8A%80%E8%A1%93/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/content/posts/github_pages_with_hugo/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://aaaaji.github.io/Blog/about/</loc>
     <lastmod>2020-03-22T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -17,19 +66,7 @@
   </url>
   
   <url>
-    <loc>https://aaaaji.github.io/Blog/categories/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://aaaaji.github.io/Blog/series/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaaaji.github.io/Blog/tags/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
