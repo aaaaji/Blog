@@ -10,13 +10,6 @@
   </url>
   
   <url>
-    <loc>https://aaaaji.github.io/Blog/content/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://aaaaji.github.io/Blog/tags/github/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -25,6 +18,13 @@
   
   <url>
     <loc>https://aaaaji.github.io/Blog/tags/hugo/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/posts/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -45,7 +45,7 @@
   </url>
   
   <url>
-    <loc>https://aaaaji.github.io/Blog/content/posts/github_pages_with_hugo/</loc>
+    <loc>https://aaaaji.github.io/Blog/2020/04/github_pages_with_hugo/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh">
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
@@ -70,7 +70,7 @@
         </div><div class="search" id="search-form-wrap">
     <form class="search-form sidebar-form">
         <div class="input-group">
-            <input type="text" class="search-form-input form-control" placeholder="Search" />
+            <input type="text" class="search-form-input form-control" placeholder="搜索" />
             <span class="input-group-btn">
                 <button type="submit" class="search-form-submit btn btn-flat" onclick="return false;"><i
                         class="icon icon-search"></i></button>
@@ -80,7 +80,7 @@
             <div class="ins-search-mask"></div>
             <div class="ins-search-container">
                 <div class="ins-input-wrapper">
-                    <input type="text" class="ins-search-input" placeholder="Type something..."
+                    <input type="text" class="ins-search-input" placeholder="想要查找什么..."
                         x-webkit-speech />
                     <button type="button" class="close ins-close ins-selectable" data-dismiss="modal"
                         aria-label="Close"><span aria-hidden="true">×</span></button>
@@ -108,25 +108,25 @@
                 </a>
             </li>
             <li class="menu-item menu-item-archives">
-                <a href="/Blog/posts/">
+                <a href="/Blog/posts">
                     <i class="icon icon-archives-fill"></i>
                   <span class="menu-title">Archives</span>
                 </a>
             </li>
             <li class="menu-item menu-item-categories">
-                <a href="/Blog/categories/">
+                <a href="/Blog/categories">
                     <i class="icon icon-folder"></i>
                   <span class="menu-title">Categories</span>
                 </a>
             </li>
             <li class="menu-item menu-item-tags">
-                <a href="/Blog/tags/">
+                <a href="/Blog/tags">
                     <i class="icon icon-tags"></i>
                   <span class="menu-title">Tags</span>
                 </a>
             </li>
             <li class="menu-item menu-item-about">
-                <a href="/Blog/about/">
+                <a href="/Blog/about">
                     <i class="icon icon-cup-fill"></i>
                   <span class="menu-title">About</span>
                 </a>
@@ -140,7 +140,7 @@
   <div class="slimContent">
     
       <div class="widget">
-    <h3 class="widget-title">Board</h3>
+    <h3 class="widget-title">公告</h3>
     <div class="widget-body">
         <div id="board">
             <div class="content"><p>準備去陰間</p>
@@ -150,7 +150,7 @@
 </div>
 
       <div class="widget">
-    <h3 class="widget-title"> Categories</h3>
+    <h3 class="widget-title"> 分类</h3>
     <div class="widget-body">
         <ul class="category-list">
             <li class="category-list-item"><a href="https://aaaaji.github.io/Blog/categories/%E6%8A%80%E8%A1%93/" class="category-list-link">技術</a><span class="category-list-count">1</span></li>
@@ -158,7 +158,7 @@
     </div>
 </div>
       <div class="widget">
-    <h3 class="widget-title"> Tags</h3>
+    <h3 class="widget-title"> 标签</h3>
     <div class="widget-body">
         <ul class="tag-list">
             
@@ -176,9 +176,19 @@
 </div>
       
 <div class="widget">
-    <h3 class="widget-title">Recent Posts</h3>
+    <h3 class="widget-title">最新文章</h3>
     <div class="widget-body">
         <ul class="recent-post-list list-unstyled no-thumbnail">
+            <li>
+                <div class="item-inner">
+                    <p class="item-title">
+                        <a href="https://aaaaji.github.io/Blog/2020/04/github_pages_with_hugo/" class="title">用Hugo、Github、Github Pages建立靜態網站</a>
+                    </p>
+                    <p class="item-date">
+                        <time datetime="2020-04-03 00:00:00 &#43;0000 UTC" itemprop="datePublished">2020-04-03</time>
+                    </p>
+                </div>
+            </li>
         </ul>
     </div>
 </div>
@@ -192,9 +202,25 @@
     <article class="content article article-archives article-type-list" itemscope="">
         <header class="article-header">
             <h1 itemprop="title">Series</h1>
-            <p class="text-muted">Total 0 articles</p>
+            <p class="text-muted">共 1 篇文章</p>
         </header>
         <div class="article-body">
+                        <section class="panel panel-default b-no">
+                            <div class="panel-heading" role="tab">
+                                <h3 class="panel-title">
+                                    <a data-toggle="collapse" href="#collapse2020" aria-expanded="true">
+                                        <i class="icon icon-calendar-plus text-active"></i><i class="icon icon-calendar-minus text"></i>
+                                        &nbsp;2020
+                                    </a>
+                                </h3>
+                            </div>
+                            <div id="collapse2020" class="panel-collapse collapse in" role="tabpanel"
+                                aria-labelledby="heading2020">
+                                <div class="panel-body">
+                                    <div class="collection"><a href="https://aaaaji.github.io/Blog/2020/04/github_pages_with_hugo/" class="collection-item" itemprop="url" target="_blank">
+    <time datetime="2020-04-03 00:00:00 &#43;0000 UTC" itemprop="datePublished" style="margin-right: 5px;">2020-04-03
+    </time>用Hugo、Github、Github Pages建立靜態網站
+</a>
         </div></div></div></section>
         </div>
     </article>
@@ -209,7 +235,7 @@
     &copy;2020  -
     2020
     <div class="publishby">
-        Theme by <a href="https://github.com/xiaoheiAh" target="_blank"> xiaoheiAh </a>base on<a href="https://github.com/xiaoheiAh/hugo-theme-pure" target="_blank"> pure</a>.
+        base on<a href="https://github.com/xiaoheiAh/hugo-theme-pure" target="_blank"> pure</a>.
     </div>
   </div>
 </footer>
@@ -246,14 +272,14 @@
     (function (window) {
         var INSIGHT_CONFIG = {
             TRANSLATION: {
-                POSTS: 'Posts',
-                PAGES: 'Pages',
-                CATEGORIES: 'Categories',
-                TAGS: 'Tags',
-                UNTITLED: '(Untitled)',
+                POSTS: '文章',
+                PAGES: '页面',
+                CATEGORIES: '分类',
+                TAGS: '标签',
+                UNTITLED: '(未命名)',
             },
-            ROOT_URL: 'https:\/\/aaaaji.github.io\/Blog',
-            CONTENT_URL: 'https:\/\/aaaaji.github.io\/Blog\/searchindex.json ',
+            ROOT_URL: 'https:\/\/aaaaji.github.io\/Blog\/',
+            CONTENT_URL: 'https:\/\/aaaaji.github.io\/Blog\/\/searchindex.json ',
         };
         window.INSIGHT_CONFIG = INSIGHT_CONFIG;
     })(window);
