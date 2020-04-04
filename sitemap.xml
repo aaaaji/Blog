@@ -38,6 +38,20 @@
   </url>
   
   <url>
+    <loc>https://aaaaji.github.io/Blog/tags/tools/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/tags/ubuntu/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://aaaaji.github.io/Blog/categories/%E6%8A%80%E8%A1%93/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -46,6 +60,13 @@
   
   <url>
     <loc>https://aaaaji.github.io/Blog/2020/04/github_pages_with_hugo/</loc>
+    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/2020/04/ubuntu_installed/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
