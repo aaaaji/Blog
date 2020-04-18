@@ -4,7 +4,49 @@
   
   <url>
     <loc>https://aaaaji.github.io/Blog/categories/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/tags/epi-certified/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/tags/it/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/posts/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/tags/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/categories/%E6%8A%80%E8%A1%93/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aaaaji.github.io/Blog/2020/04/dcfc/</loc>
+    <lastmod>2020-04-18T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -24,20 +66,6 @@
   </url>
   
   <url>
-    <loc>https://aaaaji.github.io/Blog/posts/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaaaji.github.io/Blog/tags/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://aaaaji.github.io/Blog/tags/tools/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -46,13 +74,6 @@
   
   <url>
     <loc>https://aaaaji.github.io/Blog/tags/ubuntu/</loc>
-    <lastmod>2020-04-03T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://aaaaji.github.io/Blog/categories/%E6%8A%80%E8%A1%93/</loc>
     <lastmod>2020-04-03T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

@@ -10,6 +10,15 @@
     
     
     <item>
+      <title>數據中心基礎認證 (Data Centre Foundation Certificate，DCFC)</title>
+      <link>https://aaaaji.github.io/Blog/2020/04/dcfc/</link>
+      <pubDate>Sat, 18 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://aaaaji.github.io/Blog/2020/04/dcfc/</guid>
+      <description>簡單前言 DCFC 這個認證是 EPI 數據中心系列最基礎的一張證照，內容是數據中心基礎建設的基本常識，雖然在撰寫的當下其實很多內容我連聽都沒有聽過，適合所有</description>
+    </item>
+    
+    <item>
       <title>用Hugo、Github、Github Pages建立靜態網站</title>
       <link>https://aaaaji.github.io/Blog/2020/04/github_pages_with_hugo/</link>
       <pubDate>Fri, 03 Apr 2020 00:00:00 +0000</pubDate>
